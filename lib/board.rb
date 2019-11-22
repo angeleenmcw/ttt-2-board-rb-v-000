@@ -1,14 +1,11 @@
 # Define the variable board below.
 board = ["0","1","2"]
-row[0]
-row[1]
-row[2]
-row[0]="X"
-row #=> ["X"],"X","O"]
-row[1]="O"
-row #=> ["O"],"O","X"]
-row[2]="X"
-row #=> ["X"],"O","X"]
-
-
-
+board[0]
+board[1]
+board[2]
+board[0]="X"
+board #=> ["X"],"X","O"]
+board[1]="O"
+board #=> ["O"],"O","X"]
+board[2]="X"
+board #=> ["X"],"O","X"]
